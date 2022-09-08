@@ -1,5 +1,3 @@
-# SharpestMind_Project
-
 ## Project Title
 
 ## Overview
