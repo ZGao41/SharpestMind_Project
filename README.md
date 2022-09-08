@@ -10,7 +10,11 @@
 
 ## Datasets
 
+## Data Science Pipeline
+
 ## Practical Applications
+
+## Libaries to install
 
 ## Milestones
 
