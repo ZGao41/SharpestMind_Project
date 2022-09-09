@@ -11,7 +11,7 @@ However, as a regular user myself, the default search function from Stack Overfl
 - Developers may get lost in the massive information from these forum and waste their time
   
 ## Goals
-- Aid developers for the answers they are looking for
+- Aid developers to quickly and accurately find their answers
 - Save the energy and time for developers when searching for information
 
 ## Datasets
