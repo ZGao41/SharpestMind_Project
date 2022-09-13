@@ -19,7 +19,7 @@ However, as a regular user myself, the default search function from Stack Overfl
 Construct dataset from building an API from Stack Exchange API v2.3
 
 ## Data Science Pipeline
-- Metrics for 
+- Metrics for Success
 
 ## Practical Applications
 
