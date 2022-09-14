@@ -24,7 +24,7 @@ Construct dataset from building an API from Stack Exchange API v2.3
 ## Practical Applications 
 - Auto suggesting the queries for the developers
 
-## Business Values:
+## Business Values
 - Reduce the search time
 - Provide a pleasant working environment for developers
 
