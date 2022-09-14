@@ -21,7 +21,12 @@ Construct dataset from building an API from Stack Exchange API v2.3
 ## Data Science Pipeline
 - Metrics for Success
 
-## Practical Applications
+## Practical Applications 
+- Auto suggesting the queries for the developers
+
+## Business Values:
+- Reduce the search time
+- Provide a pleasant working environment for developers
 
 ## Libaries to install
 
